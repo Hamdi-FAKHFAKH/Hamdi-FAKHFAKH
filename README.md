@@ -1,7 +1,7 @@
 [![MasterHead](https://lh3.googleusercontent.com/a-/AOh14GhozujVUQipjGZKiGfuCczd9YB-aplIoYAXQjD8_g=s360-p-rw-no)](https://github.com/Hamdi-FAKHFAKH?tab=repositories)
 <h1 align="center">Hi 👋, I'm Hamdi Fakhfakh</h1>
 <h3 align="center">A passionate Full stack developer from Tunisia</h3>
-<img src="https://i.gifer.com/9SRo.gif" alt="code" align="right" width="400px">
+<img src="https://i.gifer.com/9SRo.mp4" alt="code" align="right" width="400px">
 <p align="left">  </p>
 
 - 🌱 I’m currently learning **Software Engineering Student**
